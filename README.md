@@ -28,20 +28,6 @@
 
 <div align="center">
 
-## 💡 Inspirational Quote
-
-</div>
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### 💙 Thanks for visiting!
 
 **If you liked my projects, leave a ⭐ on the repository!**
