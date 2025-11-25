@@ -4,7 +4,6 @@
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Professional-Developer-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Dexz00?style=for-the-badge&color=6C63FF" />
   <img src="https://komarev.com/ghpvc/?username=Dexz00&style=for-the-badge&color=6C63FF" />
   
