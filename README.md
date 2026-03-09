@@ -15,8 +15,6 @@
 
 ### 💻 Programming Languages
 
-
-<img src="https://img.shields.io/badge/python-FFFF00?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=luau&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
