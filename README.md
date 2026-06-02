@@ -1,37 +1,29 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&height=70&lines=Hello!+%F0%9F%91%8B;I'm+Dexz;Welcome+to+my+profile!" />
-</h1>
-
-<div align="center">
-  
-  <img src="https://img.shields.io/github/followers/Dexz00?style=for-the-badge&color=6C63FF" />
-  <img src="https://komarev.com/ghpvc/?username=Dexz00&style=for-the-badge&color=6C63FF" />
-  
-</div>
+<h1 align="center">$ Dexz</h1>
 
 <br/>
 
-<div align="center">
-
-### 💻 Programming Languages
-
-<img src="https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=luau&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-</div>
+```lua
+local dexz = {
+  role      = "developer",
+  languages = { "Luau/Lua", "C++", "C#", "HTML", "CSS" },
+  focus     = "building things that work",
+  status    = function() return "always coding" end,
+}
+```
 
 <br/>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,cpp,cs,html,css&theme=dark" alt="skills" />
+</p>
 
-### 💙 Thanks for visiting!
+<br/>
 
-**If you liked my projects, leave a ⭐ on the repository!**
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Dexz00?style=flat&labelColor=0d1117&color=6C63FF&label=followers" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Dexz00&style=flat&color=6C63FF&label=views" alt="views" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-</div>
-
+<p align="center">
+  <sub><code>// leave a ⭐ if you like my work</code></sub>
+</p>
